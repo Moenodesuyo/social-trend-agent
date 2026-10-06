@@ -1,0 +1,35 @@
+# Core (always needed)
+numpy
+scikit-learn
+
+# Embeddings - recommended backend (downloads a small model on first run)
+sentence-transformers
+
+# Explanation layer (Gemini free tier)
+google-generativeai
+
+# Convenience: load GEMINI_API_KEY from a .env file
+python-dotenv
+
+# UI
+streamlit
+
+# PDF export of the self-audit report (built-in CJK font, no font file to ship)
+reportlab
+
+# Real-data ingestion (Hugging Face datasets, streamed)
+datasets
+
+# Real-data ingestion (Apify TikTok / Instagram scraper API, optional)
+requests
+
+# English-only filter for scraped posts (ingest.filter_english)
+langdetect
+
+# Local (no-Gemini) video understanding: speech, on-screen text, cut/format
+# detection - see video_local.py. Free/offline; faster-whisper and EasyOCR
+# each download a small model on first use.
+faster-whisper
+opencv-python-headless
+scenedetect
+easyocr

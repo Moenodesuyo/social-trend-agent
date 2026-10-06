@@ -1,0 +1,13 @@
+# Light, minimal, high-whitespace theme (area-407 vibe: warm off-white,
+# charcoal text, one very muted sage accent). Streamlit ignores unknown keys.
+[theme]
+base = "light"
+primaryColor = "#5F6B57"
+backgroundColor = "#F6F4EF"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#262420"
+linkColor = "#5F6B57"
+codeBackgroundColor = "#EFEBE3"
+borderColor = "#E4DED2"
+baseRadius = "0.4rem"
+font = "sans serif"

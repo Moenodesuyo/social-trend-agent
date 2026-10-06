@@ -1,0 +1,8 @@
+{
+  "name": "Example Careers",
+  "description": "A fictional AI career assistant that helps job seekers through every step of the search: finding roles, tailoring applications, preparing for interviews and negotiating salary.",
+  "target_audience": "Active job seekers and career changers, especially Gen Z and people targeting tech or remote roles.",
+  "tone": "Empowering and practical; empathetic about how hard job hunting is, but always pointing to a concrete next step. Not overly formal.",
+  "tools": ["Resume Optimizer (ATS-friendly)", "Cover Letter Builder", "LinkedIn Profile Review", "Interview Coach", "Salary Negotiation Helper", "Job Search (natural language)"],
+  "keywords": ["jobsearch", "jobhunt", "resume", "interview", "career", "careertok", "interviewtips", "careeradvice", "recruiting", "ghosted", "ats", "coverletter", "salary", "linkedin", "hired", "remote"]
+}

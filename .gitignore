@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Local environment / caches
+.venv/
+__pycache__/
+*.pyc
+.claude/
+
+# Private brand profile, scraped data, run history and generated reports
+data/
+out/
+report.json
+report.md
+self_audit.*
